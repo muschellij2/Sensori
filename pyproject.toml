@@ -7,7 +7,7 @@ name = "sensori"
 version = "0.1.0"
 description = "Pretraining and inference for Sensori accelerometer representations"
 readme = "README.md"
-requires-python = ">=3.13,<3.14"
+requires-python = ">=3.12,<3.14"
 dynamic = ["dependencies"]
 
 [project.optional-dependencies]
